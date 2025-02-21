@@ -1,0 +1,2 @@
+#!/bin/sh
+python -m lbdc __init__.lbd __init__.py
