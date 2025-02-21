@@ -2,8 +2,8 @@ from setuptools import setup, find_packages
 
 setup(
     name='xxpop',
-    version='0.0.1',
-    description='function xxpop that λx. (x,x.pop()) define',
+    version='0.0.2',
+    description='function xxp that λx. (x,x.pop()) define',
     author='du7ec',
     author_email='dutec6834@gmail.com',
     url='https://github.com/FarAway6834/xxpop',
