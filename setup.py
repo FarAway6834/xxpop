@@ -9,7 +9,7 @@ setup(
     url='https://github.com/FarAway6834/xxpop',
     packages=find_packages(exclude=[]),
     keywords=['xxpop'],
-    python_requires='>=3.0',
+    python_requires='>=2.0',
     package_data={},
     classifiers=[
         'Programming Language :: Python :: 2.0',
