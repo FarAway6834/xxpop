@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='xxpop',
-    version='0.0.2',
+    version='0.0.3',
     description='function xxp that λx. (x,x.pop()) define',
     author='du7ec',
     author_email='dutec6834@gmail.com',
